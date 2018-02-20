@@ -1,0 +1,10 @@
+---
+- host:
+    name: alpha
+    ip: 192.168.1.100
+- host:
+    name: beta
+    ip: 192.168.1.101
+- host:
+    name: omega
+    ip: 192.168.1.110
