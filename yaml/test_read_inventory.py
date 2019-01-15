@@ -1,6 +1,6 @@
 from unittest import TestCase
 import os
-from fc_yaml import config_reader
+from yaml import config_reader
 
 
 class TestRead_inventory(TestCase):
